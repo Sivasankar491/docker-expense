@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS transcations;
+CREATE DATABASE IF NOT EXISTS transactions;
 USE transcations;
 
 CREATE TABLE IF NOT EXISTS transactions (
